@@ -1,0 +1,20 @@
+\\A8600689\!HOMELW\rpri520\Documents\Visual Studio Projects\Projects\Battleship v3\Battleship v3\bin\Debug\Battleship v3.exe.config
+\\A8600689\!HOMELW\rpri520\Documents\Visual Studio Projects\Projects\Battleship v3\Battleship v3\bin\Debug\Battleship v3.exe
+\\A8600689\!HOMELW\rpri520\Documents\Visual Studio Projects\Projects\Battleship v3\Battleship v3\bin\Debug\Battleship v3.pdb
+\\A8600689\!HOMELW\rpri520\Documents\Visual Studio Projects\Projects\Battleship v3\Battleship v3\obj\Debug\Battleship v3.csprojAssemblyReference.cache
+\\A8600689\!HOMELW\rpri520\Documents\Visual Studio Projects\Projects\Battleship v3\Battleship v3\obj\Debug\Battleship v3.csproj.CoreCompileInputs.cache
+\\A8600689\!HOMELW\rpri520\Documents\Visual Studio Projects\Projects\Battleship v3\Battleship v3\obj\Debug\Battleship v3.exe
+\\A8600689\!HOMELW\rpri520\Documents\Visual Studio Projects\Projects\Battleship v3\Battleship v3\obj\Debug\Battleship v3.pdb
+K:\kloj\Battleship v3\Battleship v3\bin\Debug\Battleship v3.exe.config
+K:\kloj\Battleship v3\Battleship v3\obj\Debug\Battleship v3.exe
+K:\kloj\Battleship v3\Battleship v3\obj\Debug\Battleship v3.pdb
+K:\kloj\Battleship v3\Battleship v3\bin\Debug\Battleship v3.exe
+K:\kloj\Battleship v3\Battleship v3\bin\Debug\Battleship v3.pdb
+K:\KloJ\Battleship v3\Battleship v3\obj\Debug\Battleship v3.csprojResolveAssemblyReference.cache
+\\A8600689\!HOMELW\rpri520\Documents\Visual Studio Projects\Projects\Battleships\Battleship v3\bin\Debug\Battleship v3.exe.config
+\\A8600689\!HOMELW\rpri520\Documents\Visual Studio Projects\Projects\Battleships\Battleship v3\bin\Debug\Battleship v3.exe
+\\A8600689\!HOMELW\rpri520\Documents\Visual Studio Projects\Projects\Battleships\Battleship v3\bin\Debug\Battleship v3.pdb
+\\A8600689\!HOMELW\rpri520\Documents\Visual Studio Projects\Projects\Battleships\Battleship v3\obj\Debug\Battleship v3.csprojAssemblyReference.cache
+\\A8600689\!HOMELW\rpri520\Documents\Visual Studio Projects\Projects\Battleships\Battleship v3\obj\Debug\Battleship v3.csproj.CoreCompileInputs.cache
+\\A8600689\!HOMELW\rpri520\Documents\Visual Studio Projects\Projects\Battleships\Battleship v3\obj\Debug\Battleship v3.exe
+\\A8600689\!HOMELW\rpri520\Documents\Visual Studio Projects\Projects\Battleships\Battleship v3\obj\Debug\Battleship v3.pdb
